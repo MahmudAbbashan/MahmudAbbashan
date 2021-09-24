@@ -1,5 +1,5 @@
 - 👋 Assalamu alaykum Men @MahmudAbbashan
-- 👀 Qiziqishlarim: Pyton va Jango
+- 👀 Qiziqishlarim: Python va Jango
 
 
 <!---
